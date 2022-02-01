@@ -1,0 +1,6 @@
+.area button{
+    background: rgba(4, 90, 14, 0.631);
+}
+.area button:hover{
+    background: rgba(24, 109, 34, 0.631);
+}
